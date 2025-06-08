@@ -11,8 +11,5 @@ A motivational quote generator built with HTML, CSS, and JavaScript. Refresh the
 Live Site
 [Click here to view the live project](https://beyyvz.github.io/quote-generator/)
 
-## preview
-![screenshot](preview-image.png) ← (optional if you want to include an image later)
-
 ## author
 Beyza Yavuz | [@beyyvz](https://github.com/beyyvz)
